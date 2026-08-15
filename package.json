@@ -1,6 +1,6 @@
 {
   "name": "ts-dspy-monorepo",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "private": true,
   "description": "TypeScript framework for building type-safe LLM applications with structured outputs, ReAct reasoning patterns, and automatic validation",
   "author": "Arnav Dadarya",
@@ -38,6 +38,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ardada2468/LLMTypeSafe.git"
+    "url": "https://github.com/stormcoder/LLMTypeSafe.git"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "@ts-dspy/core",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "description": "Core library for building type-safe LLM applications with structured input/output signatures, automatic validation, and reasoning patterns within TypeScript",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -47,6 +47,6 @@
   "gitHead": "64076cea167720968e7fe120aea13046eeda7c6a",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ardada2468/LLMTypeSafe.git"
+    "url": "https://github.com/stormcoder/LLMTypeSafe.git"
   }
 }

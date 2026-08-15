@@ -1,6 +1,6 @@
 {
   "name": "@ts-dspy/openai",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "description": "OpenAI ChatGPT integration for TS-DSPy - enables type-safe LLM interactions with GPT-3.5, GPT-4, and other OpenAI models for TypeScript",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -44,6 +44,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ardada2468/LLMTypeSafe.git"
+    "url": "https://github.com/stormcoder/LLMTypeSafe.git"
   }
 }
